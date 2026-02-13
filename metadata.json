@@ -1,0 +1,5 @@
+{
+  "name": "ARGOS SEA Portal",
+  "description": "A sleek, responsive portal for ARGOS SEA with contact forms for unavailable services, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
